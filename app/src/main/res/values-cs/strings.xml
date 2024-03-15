@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string name="cannot_be_empty">Nemůže být prázdný</string>
+    <string name="trainingName">Název tréninku</string>
+    <string name="chooseImage">Vyber obrázek</string>
+    <string name="saveTraining">Ulož trénink</string>
+    <string name="editTraining">Přidat/Upravit trénink</string>
+    <string name="loading">Načítání</string>
+    <string name="editExercise">Přidat/Upravit Cvik</string>
+    <string name="version">Verze:</string>
+    <string name="exerciseName">Název Cviku</string>
+    <string name="EnterAllFields">Vyplň všechny pole</string>
+    <string name="trainings">Tréninky</string>
+    <string name="greaterThanZero">Musí být vyšší než 0</string>
+    <string name="yourDetail">Tvůj detail</string>
+    <string name="settings">Nastavení</string>
+    <string name="light">Světlý</string>
+    <string name="dark">Tmavý</string>
+    <string name="defaultMode">Výchozí</string>
+    <string name="ChoseVisMode">Zvol si vzhled aplikace</string>
+    <string name="jmeno">Jméno</string>
+    <string name="male">Muž</string>
+    <string name="female">Žena</string>
+    <string name="gender">Pohlaví</string>
+    <string name="Weight">Váha</string>
+    <string name="Height">Výška</string>
+    <string name="Save">Uložit</string>
+    <string name="Update">Upravit</string>
+    <string name="Alert">Pozor!</string>
+    <string name="saveExer">Uložit</string>
+    <string name="addNewExercise">Přidej nové cviky</string>
+    <string name="Exercises">Cviky</string>
+    <string name="Edit">Upravit</string>
+    <string name="ChangeMode">Změnit mód</string>
+    <string name="AddFirstExercise">Přidej svůj první trénink</string>
+    <string name="AddFirstTraining">Přidej svůj první cvik</string>
+    <string name="reps">Počet opakování</string>
+    <string name="Sets">Počet sérií</string>
+    <string name="WeightS">Váha</string>
+</resources>
